@@ -1,4 +1,6 @@
+
 Hello Friday!
+Hello! lalalala
 This is your first project. :):):)
 first line
 second line text from portfolio0206
